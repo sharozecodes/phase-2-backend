@@ -1,52 +1,101 @@
 {
-  "toys": [
+  "zodiacs": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Aries",
+      "startDate": { "month": 3, "day": 21 },
+      "endDate": { "month": 4, "day": 19 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/05/USAT/9466cf20-57a9-4c03-9910-874faa7d459d-Aries.jpg",
+      "favoriteFood": "Steak"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Taurus",
+      "startDate": { "month": 4, "day": 20 },
+      "endDate": { "month": 5, "day": 20 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/06/USAT/0b778539-2377-4257-8611-641aeb71f27b-Taurus.jpg",
+      "favoriteFood": "Chocolate"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Gemini",
+      "startDate": { "month": 5, "day": 21 },
+      "endDate": { "month": 6, "day": 20 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/07/USAT/82b83b8c-1b0b-4655-93ce-d2016c4bd70a-Gemini.jpg",
+      "favoriteFood": "Sushi"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Cancer",
+      "startDate": { "month": 6, "day": 21 },
+      "endDate": { "month": 7, "day": 22 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/06/USAT/fd94e5d0-a585-4f27-a3b7-3f1a2553555e-Cancer.jpg",
+      "favoriteFood": "Pizza"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Leo",
+      "startDate": { "month": 7, "day": 23 },
+      "endDate": { "month": 8, "day": 22 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/11/USAT/92784ead-4214-42cc-a326-df3e2eba4d5c-Leo.jpg",
+      "favoriteFood": "Burger"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Virgo",
+      "startDate": { "month": 8, "day": 23 },
+      "endDate": { "month": 9, "day": 22 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/13/USAT/658444cd-e5d6-4ebb-891a-a46223e7c465-Virgo.jpg",
+      "favoriteFood": "Salad"
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Libra",
+      "startDate": { "month": 9, "day": 23 },
+      "endDate": { "month": 10, "day": 22 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/04/USAT/ed03682a-2b5d-4885-95d5-322fd9a2df62-Libra.jpg",
+      "favoriteFood": "Pasta"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Scorpio",
+      "startDate": { "month": 10, "day": 23 },
+      "endDate": { "month": 11, "day": 21 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/04/USAT/1f3dd28e-0265-4e54-970a-e17a7e5a22ca-Scorpio.jpg",
+      "favoriteFood": "Tacos"
+    },
+    {
+      "id": 9,
+      "name": "Sagittarius",
+      "startDate": { "month": 11, "day": 22 },
+      "endDate": { "month": 12, "day": 21 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/04/USAT/1f3a896f-7c0d-4fc3-a395-a605d47296ba-Sagittarius.jpg",
+      "favoriteFood": "Ice Cream"
+    },
+    {
+      "id": 10,
+      "name": "Capricorn",
+      "startDate": { "month": 12, "day": 22 },
+      "endDate": { "month": 1, "day": 19 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/04/USAT/39a515e9-ae69-4cc8-838f-0aa0e84c17f5-Capricorn.jpg",
+      "favoriteFood": "Risotto"
+    },
+    {
+      "id": 11,
+      "name": "Aquarius",
+      "startDate": { "month": 1, "day": 20 },
+      "endDate": { "month": 2, "day": 18 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/10/USAT/32b646f3-6c54-4f2a-9c7d-7af2549ea8bd-Aquarius.jpg",
+      "favoriteFood": "Tofu"
+    },
+    {
+      "id": 12,
+      "name": "Pisces",
+      "startDate": { "month": 2, "day": 19 },
+      "endDate": { "month": 3, "day": 20 },
+      "image": "https://www.usatoday.com/gcdn/presto/2022/10/10/USAT/4a92642d-bd69-4842-99a5-1fa58597cc7a-Pisces.jpg",
+      "favoriteFood": "Fish"
     }
-  ]
+  ],
+  "users": []
 }
