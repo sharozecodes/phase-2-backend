@@ -3,98 +3,182 @@
     {
       "id": 1,
       "name": "Aries",
-      "startDate": { "month": 3, "day": 21 },
-      "endDate": { "month": 4, "day": 19 },
+      "startDate": {
+        "month": 3,
+        "day": 21
+      },
+      "endDate": {
+        "month": 4,
+        "day": 19
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/05/USAT/9466cf20-57a9-4c03-9910-874faa7d459d-Aries.jpg",
-      "favoriteFood": "Steak"
+      "favoriteFood": "Steak",
+      "description": "Aries is the first sign of the zodiac. People born under this sign are known for their energetic, confident, and adventurous nature."
     },
     {
       "id": 2,
       "name": "Taurus",
-      "startDate": { "month": 4, "day": 20 },
-      "endDate": { "month": 5, "day": 20 },
+      "startDate": {
+        "month": 4,
+        "day": 20
+      },
+      "endDate": {
+        "month": 5,
+        "day": 20
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/06/USAT/0b778539-2377-4257-8611-641aeb71f27b-Taurus.jpg",
-      "favoriteFood": "Chocolate"
+      "favoriteFood": "Chocolate",
+      "description": "Taurus is an earth sign known for its practicality, reliability, and sensual nature. People born under this sign are often determined and enjoy the finer things in life."
     },
     {
       "id": 3,
       "name": "Gemini",
-      "startDate": { "month": 5, "day": 21 },
-      "endDate": { "month": 6, "day": 20 },
+      "startDate": {
+        "month": 5,
+        "day": 21
+      },
+      "endDate": {
+        "month": 6,
+        "day": 20
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/07/USAT/82b83b8c-1b0b-4655-93ce-d2016c4bd70a-Gemini.jpg",
-      "favoriteFood": "Sushi"
+      "favoriteFood": "Sushi",
+      "description": "Gemini is an air sign characterized by their adaptability, intellect, and wit. People born under this sign are often social, communicative, and curious."
     },
     {
       "id": 4,
       "name": "Cancer",
-      "startDate": { "month": 6, "day": 21 },
-      "endDate": { "month": 7, "day": 22 },
+      "startDate": {
+        "month": 6,
+        "day": 21
+      },
+      "endDate": {
+        "month": 7,
+        "day": 22
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/06/USAT/fd94e5d0-a585-4f27-a3b7-3f1a2553555e-Cancer.jpg",
-      "favoriteFood": "Pizza"
+      "favoriteFood": "Pizza",
+      "description": "Cancer is a water sign known for their emotional depth, intuition, and nurturing nature. People born under this sign are often compassionate, protective, and family-oriented."
     },
     {
       "id": 5,
       "name": "Leo",
-      "startDate": { "month": 7, "day": 23 },
-      "endDate": { "month": 8, "day": 22 },
+      "startDate": {
+        "month": 7,
+        "day": 23
+      },
+      "endDate": {
+        "month": 8,
+        "day": 22
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/11/USAT/92784ead-4214-42cc-a326-df3e2eba4d5c-Leo.jpg",
-      "favoriteFood": "Burger"
+      "favoriteFood": "Burger",
+      "description": "Leo is a fire sign known for their confidence, generosity, and leadership qualities. People born under this sign are often ambitious, charismatic, and love being in the spotlight."
     },
     {
       "id": 6,
       "name": "Virgo",
-      "startDate": { "month": 8, "day": 23 },
-      "endDate": { "month": 9, "day": 22 },
+      "startDate": {
+        "month": 8,
+        "day": 23
+      },
+      "endDate": {
+        "month": 9,
+        "day": 22
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/13/USAT/658444cd-e5d6-4ebb-891a-a46223e7c465-Virgo.jpg",
-      "favoriteFood": "Salad"
+      "favoriteFood": "Salad",
+      "description": "Virgo is an earth sign known for their practicality, attention to detail, and analytical nature. People born under this sign are often organized, reliable, and hardworking."
     },
     {
       "id": 7,
       "name": "Libra",
-      "startDate": { "month": 9, "day": 23 },
-      "endDate": { "month": 10, "day": 22 },
+      "startDate": {
+        "month": 9,
+        "day": 23
+      },
+      "endDate": {
+        "month": 10,
+        "day": 22
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/04/USAT/ed03682a-2b5d-4885-95d5-322fd9a2df62-Libra.jpg",
-      "favoriteFood": "Pasta"
+      "favoriteFood": "Pasta",
+      "description": "Libra is an air sign known for their diplomacy, balance, and harmonious nature. People born under this sign are often sociable, cooperative, and seek justice and fairness."
     },
     {
       "id": 8,
       "name": "Scorpio",
-      "startDate": { "month": 10, "day": 23 },
-      "endDate": { "month": 11, "day": 21 },
+      "startDate": {
+        "month": 10,
+        "day": 23
+      },
+      "endDate": {
+        "month": 11,
+        "day": 21
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/04/USAT/1f3dd28e-0265-4e54-970a-e17a7e5a22ca-Scorpio.jpg",
-      "favoriteFood": "Tacos"
+      "favoriteFood": "Tacos",
+      "description": "Scorpio is a water sign known for their intensity, passion, and mysterious nature. People born under this sign are often determined, intuitive, and deeply emotional."
     },
     {
       "id": 9,
       "name": "Sagittarius",
-      "startDate": { "month": 11, "day": 22 },
-      "endDate": { "month": 12, "day": 21 },
+      "startDate": {
+        "month": 11,
+        "day": 22
+      },
+      "endDate": {
+        "month": 12,
+        "day": 21
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/04/USAT/1f3a896f-7c0d-4fc3-a395-a605d47296ba-Sagittarius.jpg",
-      "favoriteFood": "Ice Cream"
+      "favoriteFood": "Ice Cream",
+      "description": "Sagittarius is a fire sign known for their optimism, enthusiasm, and love for adventure. People born under this sign are often free-spirited, philosophical, and have a thirst for knowledge."
     },
     {
       "id": 10,
       "name": "Capricorn",
-      "startDate": { "month": 12, "day": 22 },
-      "endDate": { "month": 1, "day": 19 },
+      "startDate": {
+        "month": 12,
+        "day": 22
+      },
+      "endDate": {
+        "month": 1,
+        "day": 19
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/04/USAT/39a515e9-ae69-4cc8-838f-0aa0e84c17f5-Capricorn.jpg",
-      "favoriteFood": "Risotto"
+      "favoriteFood": "Risotto",
+      "description": "Capricorn is an earth sign known for their ambition, discipline, and practicality. People born under this sign are often responsible, patient, and have a strong work ethic."
     },
     {
       "id": 11,
       "name": "Aquarius",
-      "startDate": { "month": 1, "day": 20 },
-      "endDate": { "month": 2, "day": 18 },
+      "startDate": {
+        "month": 1,
+        "day": 20
+      },
+      "endDate": {
+        "month": 2,
+        "day": 18
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/10/USAT/32b646f3-6c54-4f2a-9c7d-7af2549ea8bd-Aquarius.jpg",
-      "favoriteFood": "Tofu"
+      "favoriteFood": "Tofu",
+      "description": "Aquarius is an air sign known for their individuality, humanitarian nature, and intellectual prowess. People born under this sign are often progressive, independent, and value their freedom."
     },
     {
       "id": 12,
       "name": "Pisces",
-      "startDate": { "month": 2, "day": 19 },
-      "endDate": { "month": 3, "day": 20 },
+      "startDate": {
+        "month": 2,
+        "day": 19
+      },
+      "endDate": {
+        "month": 3,
+        "day": 20
+      },
       "image": "https://www.usatoday.com/gcdn/presto/2022/10/10/USAT/4a92642d-bd69-4842-99a5-1fa58597cc7a-Pisces.jpg",
-      "favoriteFood": "Fish"
+      "favoriteFood": "Fish",
+      "description": "Pisces is a water sign known for their compassion, intuition, and artistic nature. People born under this sign are often dreamy, imaginative, and have a deep connection to their emotions."
     }
   ],
   "users": []
