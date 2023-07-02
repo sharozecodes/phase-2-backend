@@ -181,5 +181,21 @@
       "description": "Pisces is a water sign known for their compassion, intuition, and artistic nature. People born under this sign are often dreamy, imaginative, and have a deep connection to their emotions."
     }
   ],
-  "users": []
+  "users": [
+    {
+      "name": "Jojojoj",
+      "dateOfBirth": "2023-07-28",
+      "id": 1
+    },
+    {
+      "name": "Jssss",
+      "dateOfBirth": "2023-12-13",
+      "id": 2
+    },
+    {
+      "name": "jojojoj",
+      "dateOfBirth": "2023-05-17",
+      "id": 3
+    }
+  ]
 }
