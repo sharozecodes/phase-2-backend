@@ -46,14 +46,14 @@ losing!
 To run your server in development mode, run:
 
 ```sh
-npm run dev
+npm run server
 ```
 
 While running in development mode, the server will re-load any time you make
 changes to the `db.json` file, so you can test our your seed data.
 
 While your server is running, you can make requests to
-[http://localhost:3000](http://localhost:3000). Check it out in the browser to
+[http://localhost:4000](http://localhost:4000). Check it out in the browser to
 make sure your server works!
 
 ## Deploying
